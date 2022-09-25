@@ -29,13 +29,13 @@
 
 ## APP截图
 
-![我的博客](https://github.com/Pal8114/counter/tree/main/res/1.png)  
+![我的博客](https://raw.githubusercontent.com/Pal8114/counter/main/res/1.png)  
 
-![在 timeline 中显示消息作者和时间](https://github.com/Pal8114/counter/tree/main/res/2.png)  
+![在 timeline 中显示消息作者和时间](https://raw.githubusercontent.com/Pal8114/counter/main/res/2.png)  
 
-![显示目前 follow 的作者列表， 关注三个以上作者](https://github.com/Pal8114/counter/tree/main/res/3.png)  
+![显示目前 follow 的作者列表， 关注三个以上作者](https://raw.githubusercontent.com/Pal8114/counter/main/res/3.png)  
 
-![点击作者名字，会显示对方发布的消息列表](https://github.com/Pal8114/counter/tree/main/res/4.png)  
+![点击作者名字，会显示对方发布的消息列表](https://raw.githubusercontent.com/Pal8114/counter/main/res/4.png)  
 
-![发布博客和关注同学](https://github.com/Pal8114/counter/tree/main/res/5.png)  
+![发布博客和关注同学](https://raw.githubusercontent.com/Pal8114/counter/main/res/5.png)  
 
