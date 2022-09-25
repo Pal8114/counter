@@ -30,17 +30,17 @@
 ## APP截图
 
     我的博客
-<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/1.png"/></div>)  
+<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/1.png"/></div>
 
     在 timeline 中显示消息作者和时间
-<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/2.png"/></div>) 
+<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/2.png"/></div>
 
     显示目前 follow 的作者列表， 关注三个以上作者
-<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/3.png"/></div>) 
+<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/3.png"/></div>
 
     点击作者名字，会显示对方发布的消息列表
-<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/4.png"/></div>) 
+<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/4.png"/></div>
 
     发布博客和关注同学
-<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/5.png"/></div>) 
+<div align=center><img width="432" height="864" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/5.png"/></div>
 
