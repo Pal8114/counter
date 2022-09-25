@@ -1,45 +1,24 @@
-# counter
+# ICP开发入门课程第五课课程作业
 
-A flutter sample app that connects to local canister
+必填作业1：支持消息的发布者名字。要求：
+1）给 Message 增加 author 字段 （1 分）
+2）增加 set_name 和 get_name 公共方法 （1 分）
+public shared func set_name(name: Text) { … };
+public shared func get_name() : async ?Text { … };
 
-## Quick Start
-1. `dfx` installed to your local machine, making sure you can deploy canister to your local machine.
-2. `flutter` installed, and use `flutter doctor -v` make sure everything works
-3. `flutter pub get` before running this example.
-4. If you want to use MacOS to debug, make sure `macos/Runner/DebugProfile.entitlements` and `macos/Runner/Release.entitlements` have content below
-    ```xml
-    <dict>
-        ...
-        <key>com.apple.security.network.client</key>
-        <true/>
-    </dict>
-    ```
-5. Deploy canister use `dfx deploy`, the `counter` canister will be running on your local replica. Make sure you put the counter canister id inside `.dfx/local/canister_ids.json` to your `main.dart`, the json like this:
-    ```json
-    {
-        "__Candid_UI": {
-            "local": "x2dwq-7aaaa-aaaaa-aaaxq-cai"
-        },
-        "counter": {
-            "local": "x5cqe-syaaa-aaaaa-aaaxa-cai"
-        }
-    }
-    ```
-6. inside `main.dart`, you should change settings with `canisterId` to your actual id.
-   ```dart
-    Future<void> initCounter({Identity? identity}) async {
-        
-        // initialize counter, change canister id here
-        counter = Counter(canisterId: 'x5cqe-syaaa-aaaaa-aaaxa-cai', url: 'http://localhost:8000');
-        // set agent when other paramater comes in like new Identity
-        await counter?.setAgent(newIdentity: identity);
-        
-    }
-   ```
-7. start
-    ```bash
-    flutter run
-    ```
+作业2：实现课程中展示的 UI，并完成一下要求：
+1）显示目前 follow 的作者列表 （2 分）
+2）在 timeline 中显示消息作者和时间 （2 分）
+要求：请提交主网部署完成后的链接。
 
+作业3：关注(follow)其它学员的 Canister，要求：
+1）关注三个以上作者（2 分）
+2）点击作者名字，会显示对方发布的消息列表 （2 分）
 
+## APP截图
 
+![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/1.png)
+![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/2.png)
+![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/3.png)
+![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/4.png)
+![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/5.png)
