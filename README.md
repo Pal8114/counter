@@ -6,9 +6,9 @@
 
 2）增加 set_name 和 get_name 公共方法 （1 分） 
 
-public shared func set_name(name: Text) { … }; 
+    public shared func set_name(name: Text) { … }; 
 
-public shared func get_name() : async ?Text { … }; 
+    public shared func get_name() : async ?Text { … }; 
 
 
 作业2：实现课程中展示的 UI，并完成一下要求：  
@@ -29,8 +29,13 @@ public shared func get_name() : async ?Text { … };
 
 ## APP截图
 
-![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/1.png)
-![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/2.png)
-![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/3.png)
-![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/4.png)
-![RUNOOB 图标](https://https://github.com/Pal8114/counter/tree/main/res/5.png)
+![我的博客](https://github.com/Pal8114/counter/tree/main/res/1.png)  
+
+![在 timeline 中显示消息作者和时间](https://github.com/Pal8114/counter/tree/main/res/2.png)  
+
+![显示目前 follow 的作者列表， 关注三个以上作者](https://github.com/Pal8114/counter/tree/main/res/3.png)  
+
+![点击作者名字，会显示对方发布的消息列表](https://github.com/Pal8114/counter/tree/main/res/4.png)  
+
+![发布博客和关注同学](https://github.com/Pal8114/counter/tree/main/res/5.png)  
+
