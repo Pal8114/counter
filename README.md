@@ -29,7 +29,7 @@
 
 ## APP截图
 
-![我的博客](https://raw.githubusercontent.com/Pal8114/counter/main/res/1.png)  
+![我的博客](<div align=center><img width="150" height="150" src="https://raw.githubusercontent.com/Pal8114/counter/main/res/1.png"/></div>)  
 
 ![在 timeline 中显示消息作者和时间](https://raw.githubusercontent.com/Pal8114/counter/main/res/2.png)  
 
