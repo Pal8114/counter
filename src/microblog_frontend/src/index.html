@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>microblog</title>
+    <base href="/" />
+    <link rel="icon" href="favicon.ico" />
+    <!-- Minified version -->
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+  </head>
+  <body>
+    <header><h1>Microblog</h1></header>
+    <main>
+      <form action="#">
+        <label for="follow_label">关注同学(CanisterID) &nbsp;</label>
+        <input id="follow_input" alt="CanisterID" type="text" />
+        <button id="follow">FOLLOW</button>
+      </form>
+
+      <form action="#">
+        <label for="name_label">修改昵称 &nbsp;</label>
+        <input id="name_input" alt="Name" type="text" />
+        <button id="set">SET</button>
+      </form>
+
+      <form action="#">
+        <label for="message">写点什么</label>
+        <textarea id="message"></textarea>
+        <button id="post">POST</button>
+        <button id="follows">FOLLOWS</button>
+        <button id="timeline">TIMELINE</button>
+        <section id="posts"></section>
+      </form>
+    </main>
+  </body>
+</html>
